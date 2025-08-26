@@ -111,6 +111,6 @@ You will be prompted to select the library you would like to add. Navigate to th
 3. The ZIP archive is automatically extracted into the **libraries** folder inside your Arduino sketches directory.
 
 .. important::
-   The library itself is immediately usable, but its examples will **not** appear under **File → Examples** until you **restart the Arduino IDE**.
+   The library itself is immediately usable, but its examples will **not** appear under **File → Examples** until you **restart the Arduino IDE**
 
    .. image:: /Tutorial/img/L3.png
