@@ -1,7 +1,5 @@
-.. __Use of Raspberry Pi:
-
-Use of Raspberry Pi
-==========================
+Set up Your Raspberry Pi
+========================
 
 If You Have a Screen
 --------------------
