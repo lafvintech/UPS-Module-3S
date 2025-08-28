@@ -6,8 +6,8 @@ About_this_kit
 Preface
 -------------------------------
 
-ESP32 Animated Eyes Before we understand the ESP32 Animated Eyes,we need to first understand it.The following figure is a schematic diagram of the 
-ESP32 Animated Eyes:
+Before we understand the UPS Module 3S,we need to first understand it.The following figure is a schematic diagram of the 
+UPS Module 3S:
 
 .. figure:: ./Tutorial/img/LA065_A10.jpg
    :align: center
