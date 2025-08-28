@@ -6,8 +6,7 @@ About_this_kit
 Preface
 -------------------------------
 
-Before we understand the UPS Module 3S,we need to first understand it.The following figure is a schematic diagram of the 
-UPS Module 3S:
+We first need to understand what an UPS Module 3S is. The illustration below shows an UPS Module 3S.
 
 .. figure:: ./Tutorial/img/LA065_A10.jpg
    :align: center
