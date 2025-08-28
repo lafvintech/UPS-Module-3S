@@ -1,4 +1,4 @@
-.. __Assembly:
+.. __Note:
 
-Assembly
+Note
 ==========================
