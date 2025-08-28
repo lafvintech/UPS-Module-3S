@@ -3,9 +3,6 @@
 Note
 ==========================
 
-Safety Notice
-=============
-
 • Caution 1: When connecting batteries for the first time, check the LED indicator.  
   If the LED lights up, the battery is connected in reverse.  
   Do NOT charge when batteries are reversed.
