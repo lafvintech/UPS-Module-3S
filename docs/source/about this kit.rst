@@ -8,39 +8,25 @@ Preface
 
 We first need to understand what an UPS Module 3S is. The illustration below shows an UPS Module 3S.
 
-.. figure:: ./Tutorial/img/LA065_A10.jpg
+.. figure:: ./Tutorial/img/LB004_A4.jpg
    :align: center
    :width: 70%
    
-.. figure:: ./Tutorial/img/LA065_A11.jpg
+.. figure:: ./Tutorial/img/LB004_A8_V2.jpg
    :align: center
    :width: 80%
 
 Componen List
 -------------------------------
 
-1.ESP32-DEVKIT-V1 Board x1
+1. UPS Module 3S x1
+2. Type-C to XH2.54 Terminal Cable x1
+3. Dual-Head Reverse XH2.54mm Terminal Cable x1
+4. 12MM Self-Locking Switch to XH2.54mm x1
+5. DC5521 Female Connector Charging Port to XH2.54mm x1
+6. 12.6V 2A Power Adapter x1
+7. Acrylic Board x4
+8. Screw Pack x1
+9. Cross Screwdriver x1
 
-2.ESP32-Animated Eyes  Board x1
-
-3.TF-Card-Adapter x1
-
-4.GC9A01 1.28 inch TFT x2
-
-5.TFT Breakout Board x1
-
-6.TF Card Reader x1
-
-7.TF Card x1
-
-8.XH2.54 8P 30 cm Cable x1
-
-9.Micro USB Cable x1
-
-10.Acrylic Plates x2
-
-11.Screw Set x1
-
-12.Phillips screwdriver x1
-
-   .. image:: /Tutorial/img/LA065_A9_V2.jpg
+   .. image:: /Tutorial/img/LB004_A1_V3.jpg
