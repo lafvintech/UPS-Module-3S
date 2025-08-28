@@ -7,5 +7,5 @@ LAFVIN UPS Module 3S
    about this kit
    Note
    Assembly
-   Rasberrypi
+   Use of Raspberry Pi
    Upload Code
