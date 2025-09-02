@@ -19,10 +19,6 @@ Clone the repository from GitHub.
 
 .. code-block:: shell
 
-<<<<<<< Updated upstream
-   git clone https://github.com/lafvintech/super-starter-kit-for-raspberry-pi.git
-=======
    git clone https://github.com/lafvintech/UPS-Module-3S.git
->>>>>>> Stashed changes
 
 
