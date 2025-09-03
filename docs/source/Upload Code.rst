@@ -25,7 +25,6 @@ The downloaded compressed package contains code, flash_download_tool, and driver
    .. image:: /Tutorial/img/LB004_A2.jpg
 
 2. 
-.. code-block:: text
 
    Open a terminal on the Raspberry Pi and enter:
 
