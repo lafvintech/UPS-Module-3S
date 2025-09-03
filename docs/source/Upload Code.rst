@@ -33,3 +33,5 @@ The downloaded compressed package contains code, flash_download_tool, and driver
       sudo raspi-config
 
    to launch the configuration interface.
+
+3.
