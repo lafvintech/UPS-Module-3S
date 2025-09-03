@@ -3,7 +3,7 @@
 Upload Code
 ==========================
 
-Download the code by clicking this link: `Download Code <https://codeload.github.com/lafvintech/ESP32_Animated_Eyes/zip/refs/heads/main>`_
+Download the code by clicking this link: `Download Code <https://codeload.github.com/lafvintech/UPS-Module-3S/zip/refs/heads/main>`_
    
 The downloaded compressed package contains code, flash_download_tool, and driver installation.
 
