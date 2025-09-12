@@ -9,3 +9,4 @@ LAFVIN UPS Module 3S
    Assembly
    preparation/Use of Raspberry Pi
    Upload Code
+   Demo Video
